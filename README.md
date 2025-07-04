@@ -21,7 +21,7 @@
 
 
 
-### 🧰 Cybersecurity Tools and Platforms
+### 🧰 Tools and Platforms
 
 
 <p align="left">
