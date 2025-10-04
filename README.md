@@ -5,7 +5,7 @@
 
 ⇀ Studying and working on **Security Operations**, **Incident Response**, and **Digital Forensics** (IRDF)<br/>
 <!-- ⇀ Sharing thoughts and learning journeys at [my website](https://malaghawani.netlify.app/)<br/> -->
-⇀ Currently diving into **Threat Hunting** and **Cloud Security** ☁️<br/>
+⇀ Currently diving into **Threat Hunting** and **Automation** ☁️<br/>
 <br/>
 ![Threat_Hunting](https://img.shields.io/badge/Threat_Hunting-purple?style=for-the-badge)
 ![SOC_Analyst](https://img.shields.io/badge/SOC_Analyst-darkblue?style=for-the-badge) 
