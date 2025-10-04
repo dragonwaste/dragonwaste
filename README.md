@@ -4,7 +4,7 @@
 **`Cybersecurity Student and SOC Analyst`** <br/>
 
 ⇀ Studying and working on **Security Operations**, **Incident Response**, and **Digital Forensics** (IRDF)<br/>
-⇀ Sharing thoughts and learning journeys at [my website](https://malaghawani.netlify.app/)<br/>
+<!-- ⇀ Sharing thoughts and learning journeys at [my website](https://malaghawani.netlify.app/)<br/> -->
 ⇀ Currently diving into **Threat Hunting** and **Cloud Security** ☁️<br/>
 <br/>
 ![Threat_Hunting](https://img.shields.io/badge/Threat_Hunting-purple?style=for-the-badge)
