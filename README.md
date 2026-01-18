@@ -51,4 +51,4 @@
 ### 📈 GitHub Stats:
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?dragonwaste=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwaste)](https://github.com/anuraghazra/github-readme-stats)
