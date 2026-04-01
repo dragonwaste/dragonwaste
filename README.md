@@ -1,7 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
 
 # Mohammad Alaghawani
-**`Cybersecurity Student and SOC Analyst`** <br/>
+**`Cybersecurity Analyst`** <br/>
 
 ⇀ Studying and working on **Security Operations**, **Incident Response**, and **Digital Forensics** (IRDF)<br/>
 <!-- ⇀ Sharing thoughts and learning journeys at [my website](https://malaghawani.netlify.app/)<br/> -->
@@ -51,4 +51,4 @@
 ### 📈 GitHub Stats:
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Madness's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonwaste)](https://github.com/anuraghazra/github-readme-stats)
+![Madness's GitHub stats](https://github-readme-stats.shion.dev/api?username=dragonwaste)
